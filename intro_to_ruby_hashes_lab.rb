@@ -35,6 +35,6 @@ def update_counting_hash(hash, key)
   hash[key]
 end
 nil 
-end
+
 
   
